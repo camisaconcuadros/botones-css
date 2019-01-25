@@ -1,0 +1,52 @@
+button{
+    font-size: 10px;
+    color: white;
+    border:1px;
+    margin: 10px;
+    font-family:verdana;
+    width: 70px;
+    height: 30px;
+    opacity: 1;
+}
+
+.primera_fila button{
+    border-radius: 3px;
+    transition: 0.3s;
+}
+
+.primera_fila button:hover{
+    opacity: 0.6;
+}
+.segunda_fila button{
+    border-radius: 20px;
+}
+
+.cuarta_fila button{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+}
+
+#gris{
+    background-color: gray;
+}
+
+#azul{
+    background-color: blue;
+}
+
+#verde{
+    background-color: green;
+}
+
+#naranja{
+    background-color: orange;
+}
+
+#rojo{
+    background-color: red;
+}
+
+#purpura{
+    background-color: purple;
+}
